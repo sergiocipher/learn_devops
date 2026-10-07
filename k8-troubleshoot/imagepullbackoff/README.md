@@ -1,4 +1,4 @@
-```text 
+```text
 somyajit-saha@somyajit-saha-IdeaPad-Slim-3-15IRH8:~/learn_devops/k8-troubleshoot/imagepullbackoff$ kubectl apply -f broken-pod.yaml
 pod/image-demo created
 somyajit-saha@somyajit-saha-IdeaPad-Slim-3-15IRH8:~/learn_devops/k8-troubleshoot/imagepullbackoff$ kubectl get pod image-demo
